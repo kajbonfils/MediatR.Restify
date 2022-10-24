@@ -1,6 +1,6 @@
 ﻿using System.Net;
 
-namespace MinimalApiTest.MediatR;
+namespace MinimalApiTest.MediatR.RestFormatters;
 
 internal class OkRestFormatter : IRestFormatter
 {

@@ -12,6 +12,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddMediatR(typeof(Program));
 builder.Services.AddRazorPages();
+// builder.Services.AddRestify(TypeOf(Program)) // - will fetch and configure all restformatters in the solution
 
 var app = builder.Build();
 

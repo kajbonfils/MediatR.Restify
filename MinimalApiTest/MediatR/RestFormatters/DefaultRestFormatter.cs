@@ -1,4 +1,4 @@
-﻿namespace MinimalApiTest.MediatR;
+﻿namespace MinimalApiTest.MediatR.RestFormatters;
 
 internal class DefaultRestFormatter : IRestFormatter
 {
