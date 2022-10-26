@@ -596,19 +596,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kaj\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kaj\\source\\repos\\MinimalApiTest\\MinimalApiTest\\MinimalApiTest.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\MediatR.Restify\\MinimalApiTest\\MinimalApiTest.csproj",
       "projectName": "MinimalApiTest",
-      "projectPath": "C:\\Users\\kaj\\source\\repos\\MinimalApiTest\\MinimalApiTest\\MinimalApiTest.csproj",
-      "packagesPath": "C:\\Users\\kaj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kaj\\source\\repos\\MinimalApiTest\\MinimalApiTest\\obj\\",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\MediatR.Restify\\MinimalApiTest\\MinimalApiTest.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Source\\Repos\\MediatR.Restify\\MinimalApiTest\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\kaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
