@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Source\\Repos\\MediatR.Restify\\MinimalApiTest\\MinimalApiTest.csproj": {}
+    "C:\\Users\\User\\source\\repos\\MediatR.Restify\\MinimalApiTest\\MinimalApiTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Source\\Repos\\MediatR.Restify\\MinimalApiTest\\MinimalApiTest.csproj": {
+    "C:\\Users\\User\\source\\repos\\MediatR.Restify\\MinimalApiTest\\MinimalApiTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\MediatR.Restify\\MinimalApiTest\\MinimalApiTest.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\MediatR.Restify\\MinimalApiTest\\MinimalApiTest.csproj",
         "projectName": "MinimalApiTest",
-        "projectPath": "C:\\Users\\User\\Source\\Repos\\MediatR.Restify\\MinimalApiTest\\MinimalApiTest.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\MediatR.Restify\\MinimalApiTest\\MinimalApiTest.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Source\\Repos\\MediatR.Restify\\MinimalApiTest\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\MediatR.Restify\\MinimalApiTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
