@@ -1,4 +1,5 @@
 using MediatR;
+using Microsoft.AspNetCore.Mvc;
 using MinimalApiTest.MediatR;
 using MinimalApiTest.Request;
 
@@ -31,6 +32,7 @@ app.UseAuthorization();
 
 app.MapGet("/",  () => mediator.Send(new GetCarModelsRequest()).ToRest());
 app.MapPost("/", (CreateCarModelRequest request) => mediator.Send(request).ToRest());
+app.MapGet("/foo", ([FromBody]SecretRequest request) => mediator.Send(request).ToRest()); // GET with body
 
 app.MapRazorPages();
 
