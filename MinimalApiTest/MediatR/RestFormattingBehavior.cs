@@ -22,7 +22,8 @@ namespace MinimalApiTest.MediatR
         {
             new ConflictRestFormatter(),
             new OkRestFormatter(),
-            new DefaultRestFormatter()
+            new CreatedRestFormatter(),
+            new DefaultRestFormatter(),
         };
 
         private static IRestFormatter GetRestFormatter(ApiResult apiResult)

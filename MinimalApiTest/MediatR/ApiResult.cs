@@ -4,8 +4,7 @@ namespace MinimalApiTest.MediatR;
 
 public class ApiResult 
 {
-
-    // TODO: Resource Link
+    public string ResourceLink { get; set; }
     public HttpStatusCode StatusCode { get; }
     public string? Message { get; }
 
